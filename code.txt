@@ -1,4 +1,5 @@
 import someotherpkg
+import somepkg
 
 def my_function_felipe():
 	print('Felipe wrote this')
@@ -7,5 +8,10 @@ def my_function_felipe():
 def my_second_felipe_func():
 	print('Felipe again')
 	return pass
+
+def jack_function():
+	print('Hi Im Jack')
+	return pass
+
 
 
