@@ -1,5 +1,11 @@
+import someotherpkg
+
 def my_function_felipe():
 	print('Felipe wrote this')
+	return pass
+
+def my_second_felipe_func():
+	print('Felipe again')
 	return pass
 
 
