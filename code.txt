@@ -1,5 +1,12 @@
+import somepkg
+
 def my_function_felipe():
 	print('Felipe wrote this')
 	return pass
+
+def jack_function():
+	print('Hi Im Jack')
+	return pass
+
 
 
