@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-Starting from scratch...
-=======
-some other stuff going on here.
-this is new
-more things happening
-one two 
-Im working on more stuff here
-and there
-
-
-00000000
-eeee
-
-99999999
-
-21121212
->>>>>>> 0e4d489432087125e2072fb06a3d6b286e17f197
+new
+adding new feature to this code
+main was updated
